@@ -39,7 +39,7 @@ O objetivo deste projeto é criar uma plataforma digital que destaque minhas com
 ### Seção de Projetos:  
 ![Projetos](./screenshots/projects.png)  
 
-*(Adicione screenshots reais do portfólio para deixar mais atraente.)*
+
 
 ---
 
